@@ -883,7 +883,7 @@ sup {
 }
 
 .shop_list {
-    margin-top: 29px;
+    margin-top: 28px;
     display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
@@ -1451,7 +1451,7 @@ sup {
     }
     
     .trend_item {
-        padding: 21px 10px 23px 20px;
+        padding: 24px 10px 23px 20px;
     }
 
     .trend_tag {
@@ -1466,7 +1466,7 @@ sup {
 
     .main_container {
         flex-direction: column;
-        margin-top: 40px;
+        margin-top: 39px;
         margin-bottom: 52px;
     }
 
@@ -1490,7 +1490,7 @@ sup {
     }
 
     .post_content:last-child {
-        margin-bottom: 44px;
+        margin-bottom: 42px;
     }
 
     .post_content::after {
@@ -1499,7 +1499,7 @@ sup {
     
         width: 100%;
         border-bottom: 3px solid #eeeeee;
-        margin-top: 8px;
+        margin-top: 6px;
     }
 
     .post_content img {
@@ -1511,7 +1511,7 @@ sup {
     }
 
     .category {
-        margin-bottom: 8px;
+        margin-bottom: 10px;
     }
 
     .title_post a {
@@ -1524,7 +1524,7 @@ sup {
 
     .post_text {
         font-size: 14px;
-        margin-top: 12px;
+        margin-top: 3px;
     }
 
     /* SIDE BAR */
@@ -1550,13 +1550,13 @@ sup {
     /* TAGS */ 
     
     .tags {
-        margin-top: 47px;
+        margin-top: 46px;
     }
 
     /* CATEGORIES */
 
     .categories {
-        margin-top: 38px;
+        margin-top: 39px;
     }
 
     .categories_list {
