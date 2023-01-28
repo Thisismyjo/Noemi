@@ -421,7 +421,7 @@ select::-ms-expand {
     
     flex-grow: 1;
 
-    padding-top: 136px;
+    padding-top: 135px;
     padding-right: 21px;
     padding-bottom: 15px;
     padding-left: 20px;
@@ -471,14 +471,14 @@ select::-ms-expand {
 
 .trend_item {
     width: 100%;
-    padding: 27px 33px 36px 32px;
+    padding: 30px 33px 37px 32px;
     border: 3px solid #b59f5b;
 }
 
 .trend_tag {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 .tag_item:hover {
@@ -603,7 +603,7 @@ select::-ms-expand {
     font-size: 15px;
     line-height: 22px;
     color: #0f0d0e;
-    margin-top: 45px;
+    margin-top: 35px;
 }
 
 p {
